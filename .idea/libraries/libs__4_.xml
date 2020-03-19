@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs (4)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day12_xml/libs/jsoup-1.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day12_xml/libs/JsoupXpath-0.3.2.jar!/" />
+      <root url="file://$PROJECT_DIR$/day12_xml/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/day12_xml/libs" recursive="false" />
+  </library>
+</component>
